@@ -1,0 +1,2 @@
+# The page's script is pinned by a CSP hash: keep it byte-exact.
+index.html -text
